@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am passionate about software development and agile methods. I love solving team and company problems from a tactical and strategic point of view.
+
+I help teams and company to achieve more. Improving code, processes, flows, architecture, communication and human resources.
